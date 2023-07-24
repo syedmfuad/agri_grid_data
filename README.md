@@ -1,4 +1,6 @@
 # agri_grid_data
 
-Temporarily hosted: https://syedmfuad.shinyapps.io/AgStat/
+*Work in progress*
+
+Temporarily hosted at: https://syedmfuad.shinyapps.io/AgStat/
 
